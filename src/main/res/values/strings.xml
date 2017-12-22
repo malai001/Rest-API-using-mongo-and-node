@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Final_Authenticator</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="label">Udinic</string>
+    <string name="signup_title">Create new account</string>
+    <string name="login_label">Log in</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="welcome_to_appauth">Welcome to Prolife Authentication</string>
+    <string name="make_api_call">Make API Call</string>
+    <string name="make_authorization_request">Make Authorization Request</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="request_complete">API Call Successful.</string>
+    <string name="request_failed">API Call Failed.</string>
+
+    <!-- tools -->
+    <string name="tools_given_name">Some FirstName</string>
+    <string name="tools_family_name">LastName</string>
+    <string name="tools_full_name">Some FirstName LastName</string>
+    <string name="login_hint_title">Login Hint</string>
+    <string name="login_hint_description">This key will allow you to send a
+        login hint to the identity provider such as email or username</string>
+    <string name="restrictions_pending_block_user">This application is
+        waiting for further configuration details and cannot continue
+        to run. Please contact your prolife administrator for further details</string>
+</resources>
